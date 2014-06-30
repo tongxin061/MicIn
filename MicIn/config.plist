@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<dict>
+		<key>cocos2d.x.fps</key>
+		<integer>60</integer>
+		<key>cocos2d.x.display_fps</key>
+		<false/>
+		<key>cocos2d.x.gl.projection</key>
+		<string>3d</string>
+		<key>cocos2d.x.texture.pixel_format_for_png</key>
+		<string>rgba8888</string>
+		<key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+		<false/>
+		<key>fullscreen</key>
+		<false/>
+		<key>URL</key>
+		<string>www.baidu.com</string>
+		<key>bgmusic</key>
+		<array>
+			<string>bg1.mp3</string>
+			<string>bg2.mp3</string>
+			<string>bg3.mp3</string>
+		</array>
+		<key>min.mic.vol</key>
+		<integer>60</integer>
+		<key>max.mic.vol</key>
+		<integer>100</integer>
+		<key>game.time</key>
+		<integer>6</integer>
+		<key>scream.time</key>
+		<integer>1</integer>		
+		<key>level.S</key>
+		<string>95-100</string>
+		<key>level.A</key>
+		<string>90-95</string>
+		<key>level.B</key>
+		<string>84-90</string>
+		<key>level.C</key>
+		<string>76-84</string>
+		<key>level.D</key>
+		<string>68-76</string>
+		<key>level.E</key>
+		<string>60-68</string>
+		<key>audio.null</key>
+		<integer>80</integer>		
+		<key>text.Exit</key>
+		<array>
+			<string>有时候最简单的渴望，却成了最遥不可及的奢求。生命中，总有些人，安然而来，静静守候，不离不弃；也有些人，浓烈如酒，疯狂似醉，却是醒来无处觅，来去都如风。缘深缘浅，如此这般：无数的相遇，无数的别离，伤感良多，或许不舍，或许期待，或许无奈，终得悟，不如守拙以清心，淡然而浅笑。</string>
+			<string>生活最沉重的负担不是工作，而是无聊。心境。一切只在于自己的心境，无关其他。</string>
+			<string>有人说宿命，因为往往开始便应了结局，有人说伤感，因为这颗心总是不肯静静沉默于故事中，有人说勇敢，因为品到苦楚的方是爱情，有人说惆怅，因为口在说结束时心却无法止步。人生失意的时候容易失态，于是消极和绝望就会趁隙而入。笑看人生潮起潮落，守住自己的心。</string>
+			<string>有时我们的选择，只有等待，没有结果，只能黯然离开；有时我们的放弃，迫于无奈，含泪转身，却心有不甘。所以，有些曾经，关于幸福或苦痛，只能深埋心底；有些希冀，关于现在或将来，只能逐步遗忘。爱情里，分手和牵手的随时都在变换着主角，来来往往，离离散散，这就是爱情。</string>
+			<string>年少时，岁月偷走我们的懵懂；青春时，岁月偷走我们的爱慕；中年时，岁月偷走我们的激情；老暮时，岁月偷走我们的一切：它让美丽失色，让爱情黯然，让智慧隐匿，让灵魂飘逸。我们要做的，和岁月较量，和时间奔跑，在卑微中活出精彩，在短暂中寻求永恒。</string>
+			<string>人一辈子，没有人能打败你，只有你自己打败你自己。靠山山会倒，靠人人会跑，只有自己最可靠。没有人陪你走一辈子，所以你要适应孤独，没有人会帮你一辈子，所以你要奋斗一生。</string>
+		</array>		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
